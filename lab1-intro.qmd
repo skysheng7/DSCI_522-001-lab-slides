@@ -1,6 +1,7 @@
 ---
 title: "DSCI 522"
 subtitle: "Reproducible and Trustworthy Data Science Workflow"
+author: "Sky Sheng"
 format:
   revealjs:
     theme: default
