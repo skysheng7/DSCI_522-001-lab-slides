@@ -85,9 +85,10 @@ format:
 
 ## Different Work Styles 
 
-- Everyone has a different work style
-- The smartest person in the room is the room itself. 
-- Everyone has their unique talents and weaknesses. Learn from each other.
+- Learn from each other. The smartest person in the room is the room itself. 
+
+![](images/diff.png)
+
 
 ## 🙏 SIMPLE, SIMPLE SIMPLE!!
 
