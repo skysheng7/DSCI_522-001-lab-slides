@@ -23,11 +23,15 @@ format:
 
 ::: {.callout-important}
 ## Important Guidelines
-- AI tools are allowed, but you must include proper acknowledgement in your code. 
-- Revisit MDS genAI use policy if you are in doubt.
-- Document which tool you used, how you interacted with it, what is your prompts, how do you verify the output, etc.
-- Everyone in your team holds the equal responsibility for the code and documentation you submit as a group.
-- If genAI tool is used but not acknowledged, everyone in your team will face consequences of academic misconduct.
+- AI tools are allowed, but you must include proper acknowledgement.
+- Document:
+  - which tool you used?
+  - how you interacted with it?
+  - what is your prompts?
+  - how do you verify the output?
+  - ...
+- Everyone in your team holds the **equal responsibility** for the code and documentation you submit as a group.
+- If genAI tool is used but not acknowledged, everyone in your team will face consequences of **academic misconduct**.
 :::
 
 ## Equal Contribution

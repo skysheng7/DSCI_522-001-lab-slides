@@ -46,7 +46,7 @@
     "href": "lab1-intro.html#ai-tools-policy",
     "title": "DSCI 522",
     "section": "AI Tools Policy🤖",
-    "text": "AI Tools Policy🤖\n\n\n\n\n\n\nImportant Guidelines\n\n\n\nAI tools are allowed, but you must include proper acknowledgement in your code.\nRevisit MDS genAI use policy if you are in doubt.\nDocument which tool you used, how you interacted with it, what is your prompts, how do you verify the output, etc.\nEveryone in your team holds the equal responsibility for the code and documentation you submit as a group.\nIf genAI tool is used but not acknowledged, everyone in your team will face consequences of academic misconduct."
+    "text": "AI Tools Policy🤖\n\n\n\n\n\n\nImportant Guidelines\n\n\n\nAI tools are allowed, but you must include proper acknowledgement.\nDocument:\n\nwhich tool you used?\nhow you interacted with it?\nwhat is your prompts?\nhow do you verify the output?\n…\n\nEveryone in your team holds the equal responsibility for the code and documentation you submit as a group.\nIf genAI tool is used but not acknowledged, everyone in your team will face consequences of academic misconduct."
   },
   {
     "objectID": "lab1-intro.html#equal-contribution",
