@@ -1,0 +1,158 @@
+---
+title: "DSCI 522 Lab 1"
+subtitle: "Reproducible and Trustworthy Data Science Workflow"
+author: "Sky (Kehan) Sheng"
+format:
+  revealjs:
+    theme: simple
+    transition: slide
+    slide-number: true
+    chalkboard: true
+---
+
+## Welcome to Lab 1! 🎉
+
+- Introduction to reproducible workflows
+- Setting expectations
+- Getting started with your first project
+
+## Lab Policies 📋
+
+::: {.incremental}
+- **Attendance is mandatory** - Come to class!
+- **Grade recovery**: Fix problems by next week → get 50% of grade back
+- **Communication**: English only during lab sessions
+- **Platforms**: Use only designated platforms (no mini groups)
+:::
+
+## Group Expectations 👥
+
+::: {.callout-tip}
+## Discussion Time
+Talk to your group members:
+
+- What do they expect from you?
+- What are your expectations from them?
+- How will you communicate?
+:::
+
+## Ice Breaking Activity ❄️
+
+Time to get to know each other!
+
+- Share your name and background
+- What interests you about data science?
+- One fun fact about yourself
+
+## Different Workflows 🔄
+
+::: {.incremental}
+- Everyone has a different workflow
+- That's okay! Learn from each other
+- Focus on **simple projects** first
+- Build complexity gradually
+:::
+
+## Lab Structure (Today) ⏰
+
+::: {.fragment}
+**First 30 minutes:**
+
+- Demo of individual assignment
+- Questions and clarifications
+:::
+
+::: {.fragment}
+**Remaining time:**
+
+- Work on your project
+- Collaborate with your group
+- Get help as needed
+:::
+
+## Using AI Tools 🤖
+
+::: {.callout-important}
+## Important Guidelines
+- AI tools are allowed
+- **Must include proper annotations**
+- Document what AI helped with
+- Understand the code you submit
+:::
+
+## Today's Goal: MVP 🎯
+
+::: {.incremental}
+- Complete the **Simplest Minimum Viable Product**
+- Groups that finish get:
+  - 🌟 Stickers
+  - 📄 Posit cheatsheet
+:::
+
+::: {.callout-note}
+Focus on completion, not perfection!
+:::
+
+## Analysis Guidelines 📊
+
+::: {.callout-warning}
+## Keep It Simple!
+- **Classification OR regression** only
+- Don't use crazy models
+- This is NOT for job interviews
+- Save complex analyses for after class
+:::
+
+## Empathy in Pull Requests 💙
+
+::: {.fragment}
+Writing good PRs is a skill!
+:::
+
+::: {.fragment}
+Read: [On Empathy & Pull Requests](https://slack.engineering/on-empathy-pull-requests/)
+:::
+
+::: {.fragment}
+**Key points:**
+
+- Be clear and descriptive
+- Be kind and constructive
+- Think about the reviewer
+:::
+
+## README Best Practices 📝
+
+Your README should include:
+
+::: {.incremental}
+- Project description
+- How to run the analysis
+- **Estimated time** if analysis takes long
+- Dependencies and requirements
+:::
+
+## Quiz Reminder 📅
+
+::: {.callout-note}
+## Week 3
+Quiz on reproducible workflows and basic concepts
+:::
+
+## Let's Get Started! 🚀
+
+::: {.incremental}
+1. Form your groups
+2. Discuss expectations
+3. Start working on your MVP
+4. Ask questions!
+:::
+
+## Questions? 🤔
+
+Feel free to ask for help throughout the lab!
+
+---
+
+**Good luck!** 🎉
+

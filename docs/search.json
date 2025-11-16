@@ -1,0 +1,100 @@
+[
+  {
+    "objectID": "lab1-intro.html#welcome-to-lab-1",
+    "href": "lab1-intro.html#welcome-to-lab-1",
+    "title": "DSCI 522 Lab 1",
+    "section": "Welcome to Lab 1! 🎉",
+    "text": "Welcome to Lab 1! 🎉\n\nIntroduction to reproducible workflows\nSetting expectations\nGetting started with your first project"
+  },
+  {
+    "objectID": "lab1-intro.html#lab-policies",
+    "href": "lab1-intro.html#lab-policies",
+    "title": "DSCI 522 Lab 1",
+    "section": "Lab Policies 📋",
+    "text": "Lab Policies 📋\n\n\nAttendance is mandatory - Come to class!\nGrade recovery: Fix problems by next week → get 50% of grade back\nCommunication: English only during lab sessions\nPlatforms: Use only designated platforms (no mini groups)"
+  },
+  {
+    "objectID": "lab1-intro.html#group-expectations",
+    "href": "lab1-intro.html#group-expectations",
+    "title": "DSCI 522 Lab 1",
+    "section": "Group Expectations 👥",
+    "text": "Group Expectations 👥\n\n\n\n\n\n\nDiscussion Time\n\n\nTalk to your group members:\n\nWhat do they expect from you?\nWhat are your expectations from them?\nHow will you communicate?"
+  },
+  {
+    "objectID": "lab1-intro.html#ice-breaking-activity",
+    "href": "lab1-intro.html#ice-breaking-activity",
+    "title": "DSCI 522 Lab 1",
+    "section": "Ice Breaking Activity ❄️",
+    "text": "Ice Breaking Activity ❄️\nTime to get to know each other!\n\nShare your name and background\nWhat interests you about data science?\nOne fun fact about yourself"
+  },
+  {
+    "objectID": "lab1-intro.html#different-workflows",
+    "href": "lab1-intro.html#different-workflows",
+    "title": "DSCI 522 Lab 1",
+    "section": "Different Workflows 🔄",
+    "text": "Different Workflows 🔄\n\n\nEveryone has a different workflow\nThat’s okay! Learn from each other\nFocus on simple projects first\nBuild complexity gradually"
+  },
+  {
+    "objectID": "lab1-intro.html#lab-structure-today",
+    "href": "lab1-intro.html#lab-structure-today",
+    "title": "DSCI 522 Lab 1",
+    "section": "Lab Structure (Today) ⏰",
+    "text": "Lab Structure (Today) ⏰\n\nFirst 30 minutes:\n\nDemo of individual assignment\nQuestions and clarifications\n\n\n\nRemaining time:\n\nWork on your project\nCollaborate with your group\nGet help as needed"
+  },
+  {
+    "objectID": "lab1-intro.html#using-ai-tools",
+    "href": "lab1-intro.html#using-ai-tools",
+    "title": "DSCI 522 Lab 1",
+    "section": "Using AI Tools 🤖",
+    "text": "Using AI Tools 🤖\n\n\n\n\n\n\nImportant Guidelines\n\n\n\nAI tools are allowed\nMust include proper annotations\nDocument what AI helped with\nUnderstand the code you submit"
+  },
+  {
+    "objectID": "lab1-intro.html#todays-goal-mvp",
+    "href": "lab1-intro.html#todays-goal-mvp",
+    "title": "DSCI 522 Lab 1",
+    "section": "Today’s Goal: MVP 🎯",
+    "text": "Today’s Goal: MVP 🎯\n\n\nComplete the Simplest Minimum Viable Product\nGroups that finish get:\n\n🌟 Stickers\n📄 Posit cheatsheet\n\n\n\n\n\n\n\n\n\nNote\n\n\nFocus on completion, not perfection!"
+  },
+  {
+    "objectID": "lab1-intro.html#analysis-guidelines",
+    "href": "lab1-intro.html#analysis-guidelines",
+    "title": "DSCI 522 Lab 1",
+    "section": "Analysis Guidelines 📊",
+    "text": "Analysis Guidelines 📊\n\n\n\n\n\n\nKeep It Simple!\n\n\n\nClassification OR regression only\nDon’t use crazy models\nThis is NOT for job interviews\nSave complex analyses for after class"
+  },
+  {
+    "objectID": "lab1-intro.html#empathy-in-pull-requests",
+    "href": "lab1-intro.html#empathy-in-pull-requests",
+    "title": "DSCI 522 Lab 1",
+    "section": "Empathy in Pull Requests 💙",
+    "text": "Empathy in Pull Requests 💙\n\nWriting good PRs is a skill!\n\n\nRead: On Empathy & Pull Requests\n\n\nKey points:\n\nBe clear and descriptive\nBe kind and constructive\nThink about the reviewer"
+  },
+  {
+    "objectID": "lab1-intro.html#readme-best-practices",
+    "href": "lab1-intro.html#readme-best-practices",
+    "title": "DSCI 522 Lab 1",
+    "section": "README Best Practices 📝",
+    "text": "README Best Practices 📝\nYour README should include:\n\n\nProject description\nHow to run the analysis\nEstimated time if analysis takes long\nDependencies and requirements"
+  },
+  {
+    "objectID": "lab1-intro.html#quiz-reminder",
+    "href": "lab1-intro.html#quiz-reminder",
+    "title": "DSCI 522 Lab 1",
+    "section": "Quiz Reminder 📅",
+    "text": "Quiz Reminder 📅\n\n\n\n\n\n\nWeek 3\n\n\nQuiz on reproducible workflows and basic concepts"
+  },
+  {
+    "objectID": "lab1-intro.html#lets-get-started",
+    "href": "lab1-intro.html#lets-get-started",
+    "title": "DSCI 522 Lab 1",
+    "section": "Let’s Get Started! 🚀",
+    "text": "Let’s Get Started! 🚀\n\n\nForm your groups\nDiscuss expectations\nStart working on your MVP\nAsk questions!"
+  },
+  {
+    "objectID": "lab1-intro.html#questions",
+    "href": "lab1-intro.html#questions",
+    "title": "DSCI 522 Lab 1",
+    "section": "Questions? 🤔",
+    "text": "Questions? 🤔\nFeel free to ask for help throughout the lab!"
+  }
+]
