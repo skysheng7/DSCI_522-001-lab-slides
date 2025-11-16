@@ -61,11 +61,11 @@ format:
 
 ## ✅ Use GitHub Issues for Communication
 
-::: {layout-ncol=1}
+::: {style="position: absolute; top: 5px; right: 50px;"}
 ![](images/Github.png){width=120}
 :::
 
-::: {style="font-size: 0.85em;"}
+::: {style="font-size: 0.95em;"}
 ::: {.callout-tip}
 ## Why GitHub Issues?
 - Transparent and trackable: TAs and instructors can see communications and contributions
