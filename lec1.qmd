@@ -84,3 +84,24 @@ Source: [Timbers, T. A., Ostblom, J., D'Andrea, F., Lourenzutti, R., & Chen, D. 
 ](https://ubc-dsci.github.io/reproducible-and-trustworthy-workflows-for-data-science/lectures/010-intro-to-ds-workflows.html)
 :::
 
+## 🔥 Roast my repo!
+
+::: {style="font-size: 1.5em; text-align: left; margin: 0 auto; display: block;"}
+<https://shorturl.at/QSv7M>
+:::
+
+:::: {.columns style="margin-top: -50px; padding-top: -10;"}
+
+::: {.column width="50%"}
+::: {style="display: flex; justify-content: bottom; align-items: flex-start; margin-top: 0; padding-top: 0;"}
+![](images/git_oven.png){style="margin-bottom: 0px;"}
+:::
+:::
+
+::: {.column width="50%"}
+::: {style="display: flex; justify-content: bottom; align-items: flex-start; margin-top: 0; padding-top: 0;"}
+![](images/qr.png){style="margin-bottom: 0px;"}
+:::
+:::
+
+::::
