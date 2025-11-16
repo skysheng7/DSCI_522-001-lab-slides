@@ -64,7 +64,7 @@ format:
 ![](images/Github.png){width=120}
 :::
 
-::: {style="font-size: 0.95em;"}
+::: {style="font-size: 0.85em;"}
 ::: {.callout-tip}
 ## Why GitHub Issues?
 - Transparent and trackable: TAs and instructors can see communications and contributions
