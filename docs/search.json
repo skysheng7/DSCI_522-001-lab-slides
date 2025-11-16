@@ -1,5 +1,47 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "DSCI 522 Lab Slides",
+    "section": "",
+    "text": "This site contains lab slides for DSCI 522 - Reproducible and Trustworthy Data Science Workflow."
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "DSCI 522 Lab Slides",
+    "section": "",
+    "text": "This site contains lab slides for DSCI 522 - Reproducible and Trustworthy Data Science Workflow."
+  },
+  {
+    "objectID": "index.html#available-slides",
+    "href": "index.html#available-slides",
+    "title": "DSCI 522 Lab Slides",
+    "section": "Available Slides",
+    "text": "Available Slides\n\nLab 1 Introduction - Introduction to reproducible workflows, lab policies, and getting started"
+  },
+  {
+    "objectID": "index.html#about-the-course",
+    "href": "index.html#about-the-course",
+    "title": "DSCI 522 Lab Slides",
+    "section": "About the Course",
+    "text": "About the Course\nDSCI 522 focuses on reproducible and trustworthy data science workflows. Students learn best practices for:\n\nVersion control with Git and GitHub\nCollaborative data science projects\nReproducible analysis pipelines\nDocumentation and communication\nCode review and empathy in pull requests"
+  },
+  {
+    "objectID": "index.html#instructor",
+    "href": "index.html#instructor",
+    "title": "DSCI 522 Lab Slides",
+    "section": "Instructor",
+    "text": "Instructor\nSky (Kehan) Sheng\nUniversity of British Columbia\nwww.skysheng.io"
+  },
+  {
+    "objectID": "index.html#license",
+    "href": "index.html#license",
+    "title": "DSCI 522 Lab Slides",
+    "section": "License",
+    "text": "License\nThis work is licensed under the MIT License."
+  },
+  {
     "objectID": "lab1-intro.html#welcome-to-lab-1",
     "href": "lab1-intro.html#welcome-to-lab-1",
     "title": "DSCI 522 Lab 1",
