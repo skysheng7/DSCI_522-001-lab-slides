@@ -1,6 +1,6 @@
 ---
-title: "DSCI 522"
-subtitle: "Reproducible and Trustworthy Data Science Workflow"
+title: "DSCI 522 Lab 1"
+subtitle: "Lab policies, team building, and getting started"
 author: "Sky Sheng"
 format:
   revealjs:
