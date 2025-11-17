@@ -119,7 +119,7 @@ Source: [Timbers, T. A., Ostblom, J., D'Andrea, F., Lourenzutti, R., & Chen, D. 
 
 ::: {style="font-size: 0.7em;"}
 - It does not run anymore! 😱
-- Complex execution
+- It was saved only on my computer, no version control!
 - Different code chunks run on different computers with different operating systems
 - Different code chunks take in different data sources (stored in various locations on my computer)
 - No modular scripts/functions, hard to reuse
@@ -143,6 +143,21 @@ Source: [Timbers, T. A., Ostblom, J., D'Andrea, F., Lourenzutti, R., & Chen, D. 
 :::
 
 ::::
+
+## what is version control?
+
+* [Version control (for transparency and collaboration)](https://ubc-dsci.github.io/reproducible-and-trustworthy-workflows-for-data-science/lectures/050-version-control-2.html)
+
+![](images/Github.png){width=120 fig-align="center"}
+
+## 💭 Share your story
+
+* Think and write down a non-reproducible, or non-auditable, workflow you have used before at work, on a personal project, or in course work, that negatively impacted your work somehow (make sure to include this in the story).
+
+* **Share your story in the [Google Doc](https://docs.google.com/document/d/1VzhEGG2NF6d-SSoslFrSNqe1cHDYa1Mc2t8N5XnCkPU/edit?usp=sharing)** 
+
+* Activity in [textbook]((https://ubc-dsci.github.io/reproducible-and-trustworthy-workflows-for-data-science/lectures/010-intro-to-ds-workflows.html))
+
 
 ## ✨ Clean, well documented and distributable code
 

@@ -161,6 +161,20 @@
     "text": "🔥 Roast my repo!\n\nhttps://shorturl.at/QSv7M"
   },
   {
+    "objectID": "lec1.html#what-is-version-control",
+    "href": "lec1.html#what-is-version-control",
+    "title": "DSCI 522 Lecture 1",
+    "section": "what is version control?",
+    "text": "what is version control?\n\nVersion control (for transparency and collaboration)"
+  },
+  {
+    "objectID": "lec1.html#share-your-story",
+    "href": "lec1.html#share-your-story",
+    "title": "DSCI 522 Lecture 1",
+    "section": "💭 Share your story",
+    "text": "💭 Share your story\n\nThink and write down a non-reproducible, or non-auditable, workflow you have used before at work, on a personal project, or in course work, that negatively impacted your work somehow (make sure to include this in the story).\nShare your story in the Google Doc\nActivity in textbook"
+  },
+  {
     "objectID": "lec1.html#clean-well-documented-and-distributable-code",
     "href": "lec1.html#clean-well-documented-and-distributable-code",
     "title": "DSCI 522 Lecture 1",
