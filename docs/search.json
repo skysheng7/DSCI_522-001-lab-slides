@@ -25,7 +25,7 @@
     "href": "index.html#available-slides",
     "title": "DSCI 522 Slides",
     "section": "Available Slides",
-    "text": "Available Slides\n\nLectures\n\nLecture 1 - Introduction to Reproducible and Trustworthy Data Science Workflow\n\n\n\nLabs\n\nLab 1 Introduction - Introduction to reproducible workflows, lab policies, and getting started"
+    "text": "Available Slides\n\nLectures\n\nLecture 1 - Introduction to Reproducible and Trustworthy Data Science Workflow\nLecture 2 - Conda-lock, Containerization, and Docker\n\n\n\nLabs\n\nLab 1 Introduction - Introduction to reproducible workflows, lab policies, and getting started"
   },
   {
     "objectID": "index.html#license",

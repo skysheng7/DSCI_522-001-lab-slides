@@ -19,6 +19,7 @@ University of British Columbia
 ### Lectures
 
 - [Lecture 1](lec1.html) - Introduction to Reproducible and Trustworthy Data Science Workflow
+- [Lecture 2](lec2.html) - Conda-lock, Containerization, and Docker
 
 ### Labs
 
